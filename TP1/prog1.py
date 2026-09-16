@@ -6,7 +6,7 @@ print("Appuyez sur CTRL+C pour quitter.")
 
 while True:
     
-    a = int(input("Entrez un nombre : "))
-    b = int(input("Entrez un nombre : "))
+    a = float(input("Entrez un nombre : "))
+    b = float(input("Entrez un nombre : "))
     res = f.puissance(a,b)
-	print("res="+res)
+    print(res)
