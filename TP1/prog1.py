@@ -9,4 +9,4 @@ while True:
     a = float(input("Entrez un nombre  : "))
     b = float(input("Entrez un nombre : "))
     res = f.puissance(a,b)
-    print(res)
+    print(res)                      
